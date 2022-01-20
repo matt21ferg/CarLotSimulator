@@ -29,11 +29,11 @@ namespace CarLotSimulator
 
         public void MakeEngineNoise()
         {
-            Console.WriteLine("vrooom vroom");
+            Console.WriteLine($"{EngineNoise}");
         }
         public void MakeHonkNoise()
         {
-            Console.WriteLine("beeep beep");
+            Console.WriteLine($"{HonkNoise}");
         }
 
 

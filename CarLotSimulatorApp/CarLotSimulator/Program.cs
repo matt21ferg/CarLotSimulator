@@ -32,7 +32,7 @@ namespace CarLotSimulator
             Car BMW = new Car("BMW", "i8", 2020, "booop", "VRMMMMMMM");
             BMW.MakeEngineNoise();
             BMW.MakeHonkNoise();
-
+            
 
 
             //Now that the Car class is created we can instanciate 3 new cars
